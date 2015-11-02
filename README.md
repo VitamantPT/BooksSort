@@ -1,1 +1,1 @@
-Задача сортировки книг для конкурса Devcolibri Перезапуск
+Devcolibri competition task
